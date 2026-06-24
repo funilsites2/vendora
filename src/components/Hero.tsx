@@ -20,13 +20,11 @@ export function Hero() {
         </div>
 
         <h1 className="text-[43px] md:text-[63px] font-black text-white leading-[1.1] tracking-tight">
-          SUA DISTRIBUIDORA DE BATERIAS <span className="text-[#b1f616] block">NO DIGITAL.</span> VENDAS AUTOMÁTICAS.
+          AGÊNCIA <span className="text-[#b1f616] block">VENDORA</span>
         </h1>
         
         <p className="text-lg text-zinc-400 max-w-md leading-relaxed">
-          Transforme seus atendimentos e escale suas vendas com <strong className="text-white font-bold">Estrutura Digital, IA e Tráfego.</strong>
-          <br/>
-          <span className="text-sm">Um sistema completo que atrai, qualifica e vende para você.</span>
+          Vendas - Marketing - Resultados
         </p>
 
         <div className="pt-4 flex flex-col gap-4 max-w-sm">
