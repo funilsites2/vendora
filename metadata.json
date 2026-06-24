@@ -1,0 +1,8 @@
+{
+  "name": "Proposta Comercial - ADS Baterias",
+  "description": "Proposta comercial digital para implantação de Máquina de Vendas, CRM, Assistente de IA e Tráfego Pago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
