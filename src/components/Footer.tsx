@@ -72,7 +72,7 @@ export function Footer() {
        </div>
 
        <div className="max-w-7xl mx-auto px-6 mt-16 pt-8 border-t border-zinc-900/50 flex flex-col md:flex-row items-center justify-between text-[10px] text-zinc-600 font-semibold uppercase tracking-wider gap-4">
-          <p>© 2026 Agência Vendora. Todos os direitos reservados.</p>
+          <p>© 2026 ADS Loja de Baterias. Todos os direitos reservados.</p>
           <p>Proposta confidencial e intransferível.</p>
        </div>
     </motion.footer>
